@@ -10,6 +10,6 @@ This project is a challenge intended to practice to fix a broken code.
 
 - [2-sort.rb](./2-sort.rb) - Fix the code in [2-sort.rb](./2-sort.rb) so that it sorts an array of integers.
 
-- [3-user.py](./3-user.py) - Fix the code in [3-user.py](./3-user.py) so that it prints the full name of the user.
+- [3-user.py](./3-user.py) - Fix the code in [3-user.py](./3-user.py) so that it should return `True` if the password is valid, `False` otherwise.
 
-- [4-delete_duplicated.py](./4-delete_duplicated.py) - Fix the code in [4-delete_duplicated.py](./4-delete_duplicated.py) so that it deletes all duplicated items in a list.
+- [4-delete_dnodeint/](./4-delete_dnodeint/) - Fix the code in [4-delete_dnodeint/](./4-delete_dnodeint/) so that it deletes the node at index index of a dlistint_t linked list.
